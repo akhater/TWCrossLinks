@@ -4,13 +4,8 @@ TWCrossLinks is the core plugin of [Drift](https://akhater.github.io/drift) that
 # Features:
 * Adds a footer in the bottom of every Tiddler showing the keywords of that tiddler (if present)
 * Adds a footer in the bottom of every Tiddler showing all different types of inbound links to that tiddler (if present)
-** Backlinks
-** Tags
-** Keywords
-** Freelinks
-* Fotters will not show unless existing 
-* External Reference tracking
-* Transclude External websites in a pop-up
+_Backlinks_ | _Tags_ | _Keywords_ | _Freelinks_
+* Footer won't show unless existing
 
 # Change log
 ***2020-05-02***: v0.0.3
@@ -26,5 +21,5 @@ Download the [JSON file](https://github.com/akhater/TWCrossLinks/blob/master/%24
  
  
  # Discussion 
-
+https://groups.google.com/forum/#!topic/tiddlywiki/9ra0s9AEKl4
  
