@@ -17,7 +17,7 @@ TWCrossLinks is the core plugin of [Drift](https://akhater.github.io/drift) that
 * Initial Release
 
 # Installation
-Download the [JSON file](https://github.com/akhater/TiddlyWiki-EasyBookmark/blob/master/%24__ak_plugins_EasyBookmark.json) and drag/drop it in your TiddlyWiki
+Download the [JSON file](https://github.com/akhater/TWCrossLinks/blob/master/%24__ak_plugins_TWCrossLinks.json) and drag/drop it in your TiddlyWiki
  
  # Usage & Demo site
  * Check [Drift](https://akhater.github.io/drift)
