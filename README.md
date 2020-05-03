@@ -8,6 +8,11 @@ _Backlinks_ | _Tags_ | _Keywords_ | _Freelinks_
 * Footer won't show unless existing
 
 # Change log
+***2020-05-03***: v0.0.7
+* Added configuration panel, can be found at $:/ak/plugins/TWCrossLinks
+    * You can now set the Default state of the "inbound links" {Shown / Hidden}
+    * You can now set the Default "inbound links" tab
+
 ***2020-05-02***: v0.0.3
 * Initial Release
 
