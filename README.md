@@ -8,8 +8,9 @@ _Backlinks_ | _Tags_ | _Keywords_ | _Freelinks_
 * Footer won't show unless existing
 
 # Change log
-***2020-05-05***: v0.1.0
+***2020-05-05***: v0.1.1
 * Inbound links for "Backlinks" and "Freelinks" can now be transcluded in a pop-up, try it by enabling this feature from the TWCrosslinks config panel
+* Bug fixes
 
 ***2020-05-03***: v0.0.7
 * Added configuration panel, can be found at $:/ak/plugins/TWCrossLinks
